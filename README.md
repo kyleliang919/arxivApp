@@ -1,3 +1,2 @@
-# arxivApp
-react native app for arxiv  
+# arxivApp 
 [Intro.pdf](/Manual Test Plan.pdf)
